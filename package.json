@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/DO-HOAI-NAM/Nodejs#readme",
   "devDependencies": {
-    "express": "^4.17.1",
+
+    "express":"*",
+    "body-parser":"*",
+    "bcrypt": "^0.8.5",
     "hbs": "^4.2.0",
     "mongo": "^0.1.0"
   }
